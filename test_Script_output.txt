@@ -1,0 +1,23 @@
+Logistic Regression - TF-IDF - Positive Sentiment
+Accuracy: 0.8942857142857142
+Confusion Matrix:
+[[626  74]
+ [  0   0]]
+
+Logistic Regression - TF-IDF - Negative Sentiment
+Accuracy: 0.8985714285714286
+Confusion Matrix:
+[[  0   0]
+ [ 71 629]]
+
+SVM - TF-IDF - Positive Sentiment
+Accuracy: 0.8985714285714286
+Confusion Matrix:
+[[629  71]
+ [  0   0]]
+
+SVM - TF-IDF - Negative Sentiment
+Accuracy: 0.9042857142857142
+Confusion Matrix:
+[[  0   0]
+ [ 67 633]]
